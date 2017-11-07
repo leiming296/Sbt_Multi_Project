@@ -1,0 +1,28 @@
+sbt
+run
+compile
+run
+compile
+run
+clean
+run
+reload
+clean
+compile
+run
+PROJECTS
+projects
+project Hello_Class
+projects
+run
+reload
+compile
+^Z
+clean
+compiles
+projects
+project Hello_Class
+compile
+projects
+run
+project Hello_Object

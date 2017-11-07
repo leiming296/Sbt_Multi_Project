@@ -1,0 +1,11 @@
+run
+clean
+reload
+compile
+clean
+reload
+compile
+projects
+run
+run\
+run
