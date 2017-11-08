@@ -7,11 +7,15 @@ This subproject is used to show how classes of Scala work and print out the resu
 
 ## Hello List
 
-The Hello List subproject will show different kind of lisks. 
+The Hello List subproject will show different kind of lists.
+
+Another script has been added this current folder, which can show different lists. 
 
 ##  Hello Object 
 
  This subproject is for Scala object pratice 
+ 
+ 
  
 
 ## Summary 
