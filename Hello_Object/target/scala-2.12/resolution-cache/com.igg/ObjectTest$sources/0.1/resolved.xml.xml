@@ -4,7 +4,7 @@
 		module="ObjectTest$sources"
 		revision="0.1"
 		status="integration"
-		publication="20171107112228"
+		publication="20171108084735"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
